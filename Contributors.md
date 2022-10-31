@@ -43,6 +43,7 @@ pnordboj
 - [Ishita Batra](https://github.com/ishita6)
 - [Edving Morales]
 - [Bobby]
+- [Prakhar Singh](https://github.com/Shrike0p)
 - [AutumLeaf]
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [ArteyRT] (https://github.com/ArteyRT)
